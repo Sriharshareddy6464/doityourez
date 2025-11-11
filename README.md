@@ -78,36 +78,6 @@ The system is built as a distributed architecture:
 
 This is **real DevOps work** — and i documented it perfectly in `/devops`.
 
----
-
-# 📂 **Repository Structure**
-
-doityourez/
-│
-├── devops/ # ✅ Full DevOps documentation suite
-│ ├── docs/
-│ │ ├── architecture.md
-│ │ ├── deployment-steps.md
-│ │ ├── aws-setup.md
-│ │ └── server-setup.md
-│ │
-│ ├── configs/
-│ │ ├── nginx.conf
-│ │ └── pm2-ecosystem.config.js
-│ │
-│ └── screenshots/ # (Add later)
-│
-├── src/ # Next.js frontend
-├── prisma/ # Database schema (if applicable)
-├── public/
-├── package.json
-├── next.config.js
-└── README.md # ✅ you are here 
-
-
-
----
-
 # 📘 **Detailed Documentation**
 
 All DevOps documentation is available inside:
@@ -211,6 +181,7 @@ This project demonstrates:
 
 
 ---
+
 
 
 
