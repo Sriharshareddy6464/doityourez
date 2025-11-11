@@ -161,10 +161,11 @@ Examples
 **Role:** Cloud + DevOps Engineer  
 Built full cloud infrastructure + deployment & documentation.
 
-If you want to collaborate, connect with me on LinkedIn.
+If you want to collaborate, connect with me on LinkedIn. / Gmail.com / 
 
 https://www.linkedin.com/in/sriharshareddy-adapala-781a76299/
-
+*mail id* adapalasriharshareddy@gmail.com 
++91 9346946464
 ---
 
 # ⭐ **Conclusion**
@@ -181,6 +182,7 @@ This project demonstrates:
 
 
 ---
+
 
 
 
